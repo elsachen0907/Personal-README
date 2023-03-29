@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 {
-  <span style="color:blue">some *"name" : "Elsa Xiaoyi Chen",* text</span>. <br>
+  <span style="color:blue">some "name" : "Elsa Xiaoyi Chen", text</span> <br>
   "pronouns" : "she/her", <br>
   "school" : "University of Alberta", <br>
   "location" : "Edmonton, Alberta 🇨🇦", <br> 
